@@ -1,6 +1,6 @@
 [Variables]
-ListName=Reminders
-Item1=3
+ListName=Идеи
+Item1=Стопка
 Item2=1
 Item3=2
 Item4=4
